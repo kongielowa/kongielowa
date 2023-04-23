@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**kongielowa/kongielowa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h2> Hello, I'm Lidia.  👩🏼‍💻 </h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+IT student based in Warsaw, future backend developer.
+I'm building first projects and discovering new things! 💫 
+
+Fun fact: I'm a coffee freak ☕️ 
+
+<h3>&nbsp;Languages and Tools I’m currently learning 🌱 👀 </h3>
+
+- 🛠 &nbsp;Backend:&nbsp; Java, Go
+- 🛢 &nbsp;Database:&nbsp; MySQL
+- ⚙️ &nbsp;VCS: &nbsp;Git, Github
+- 🔧 &nbsp;IDE's:&nbsp; Visual Studio Code, IntelliJ, GoLand
+- 🖥 &nbsp;Other:&nbsp; Figma
+
+
+<br/>
