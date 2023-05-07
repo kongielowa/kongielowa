@@ -9,10 +9,8 @@ Fun fact: I'm a coffee freak ☕️
 
 <h3>&nbsp;Languages and Tools I’m currently learning 🌱 👀 </h3>
 
-- 🛠 &nbsp;Backend:&nbsp; Java, Go
+- 🛠 &nbsp;Backend:&nbsp; Go, Java
 - ⚙️ &nbsp;VCS: &nbsp;Git, Github
-- 🔧 &nbsp;IDE's:&nbsp; VSCode, IntelliJ, GoLand
-- 🖥 &nbsp;Other:&nbsp; Figma
-
+- 🔧 &nbsp;IDE's:&nbsp; VSCode, IntelliJ
 
 <br/>
